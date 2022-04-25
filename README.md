@@ -15,15 +15,20 @@ Content
 Each of the folders (one per public participation process) contains the coded dataset and the corresponding terms of use. The dataset csv-files contain one entry per document with the following information.
 
 document_id: document id
+
 title: title of contribution
+
 text: content of contribution
+
 url: original url of document
+
 categories: binary coding (1 if category applies, 0 else)
+
 ----------
 
 Categorization Scheme
 
-- modes of transport -
+-- modes of transport --
 
 main categories:
 + non-motorized transport
@@ -39,7 +44,7 @@ sub-category of motorized transport
 + public transport (long-distance)
 + commercial transport
 
-- specifications -
+-- specifications --
 
 + moving traffic
 + stationary traffic (parking)
